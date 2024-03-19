@@ -1,1 +1,0 @@
-# Funciones a optimizar

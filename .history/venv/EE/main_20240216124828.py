@@ -1,4 +1,0 @@
-
-
-
-#checar que un
